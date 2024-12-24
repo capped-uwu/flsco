@@ -1,7 +1,6 @@
 {
-  "KEY": "6veFV+YC0ELGbLVEB//MnO08e8fy7Ui1tTfGVDleFaM=",
-  "TIMESTAMP": "",
-  "Limited": false,
-  "DLL": "ibPzSvgCDmtYooBNY7Q1rs26GD/czUTMxphNBoUJJJ6ZZsYLEWPT6frBw1CBZepzdhXu+AgoC/kJ1il47MfnYSP/hi6WM5YsbDKeW3OrCQKjwFBkiwwNj4k0E9SNJKS5",
-  "EXE": "U9hqv3sSzZhJMGFbCnI16vIqvsckh9VvJJzOowmbRjuDtLhC9ASB4jJHrTu+OnlGXWgOeilzhN4MOIyqGoJA5ACMbtb9Fev67MVIZdtsO75rzaOniGXhA6YadwCQ6LwV"
+  "BootstrapperVersion": "1.0.0",
+  "UIVersion": "1.1.4",
+  "DL": "https://github.com/capped-uwu/flsco/releases/download/1/Flasco.zip",
+  "ifyouseethis": "youarefoundmyendpoint"
 }
